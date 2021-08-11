@@ -53,7 +53,7 @@
 - 2021.3 안동대, 컴퓨터공학과 학생 대상 딥러닝 3시간 10회 교육, [교육자료](https://github.com/dhrim/andong_2021)
 - 2021.4 충북대, 컴퓨터공학과 학생 대상 딥러닝 10시간 교육, [교육자료](https://github.com/dhrim/chungbuk_2021)
 - 2021.5 과기부, 취준생 대상 80시간 딥러닝을 위한 python, library 교육, [교육자료](https://github.com/dhrim/hongik_2021)
-- 2021.6 한양대, 창업지원단 주관 창업기업 CEO 대상, [교육자료](https://github.com/dhrim/hanyang_startup_2021)
+- 2021.6 한양대, 창업지원단 주관 창업기업 CEO 대상 딥러닝 세미나, [교육자료](https://github.com/dhrim/hanyang_startup_2021)
 - 2021.7 과기부, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/hongik_2021)
 - 2021.8 T-아카데미, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/t-academy_2021)
 
