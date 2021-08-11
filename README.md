@@ -38,7 +38,7 @@
 - 2019.11 한림대 의대, 의대 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
 - 2019.12 강동성심병원, 병원 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
 - 2020.1 강남성심병원, 병원 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
-- 2021.1 중앙정보처리학원, 딥러닝 80시간 교육, [교육자료](https://github.com/dhrim/joongang_2020_01)
+- 2020.1 중앙정보처리학원, 딥러닝 80시간 교육, [교육자료](https://github.com/dhrim/joongang_2020_01)
 - 2020.3 중앙정보처리학원, 딥러닝 80시간 교육, [교육자료](https://github.com/dhrim/joongang_2020_03)
 - 2020.5 동탄성심병원, 병원 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
 - 2020.6 WISET, 개발자 대상 딥러닝 40시간 교육, [교육자료](https://github.com/dhrim/wiset_2020_06)
