@@ -59,6 +59,20 @@
 
 <br>
 
+## 교육 자료
+
+딥러닝 실무에 필요한 전체 스펙에 대한 교육 자료를 전부 직접 개발함.
+- 환경
+- linux
+- libaray : numpy, pandas, seaborn, matplot
+- deep learing 개요
+- Keras
+
+public 하게 접근 가능함 : [교육자료](https://github.com/dhrim/hongik_2021)
+
+
+<br>
+
 ## 딥러닝 구축 컨설팅
 
 고객사의 개발자가 직접 딥러닝 시스템을 구축하기 위한 모든 것을 지원
