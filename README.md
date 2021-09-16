@@ -64,6 +64,7 @@
 - 2021.7 과기부, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/hongik_2021)
 - 2021.8 T-아카데미, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/t-academy_2021)
 - 2021.8 T-아카데미, 중앙대 공대생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2021)
+- 2021.8 폴리텍, 직장인 대상 16시간 딥러닝 교육, [교육자료](https://github.com/dhrim/kopo_2021)
 
 <br>
 
