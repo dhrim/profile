@@ -28,14 +28,15 @@
 
 ## 발표/세미나/교육 이력
 
-- 2013 Linux Expo 발표. 'What is Perl? What with Perl?'
+- 2003 Linux Expo 발표. 'What is Perl? What with Perl?'
 - 2009 IBM dw 세미나. '버그픽스와 테스트 케이스'
-- 2011 H3 발표. '흰머리 성성하게 개발하기 위해'
-- 2012 H3 발표, '행복한 개발을 위한 테스트 케이스'
+- 2011 H3 발표. '흰머리 성성하게 개발하기 위해', [발표자료](https://www.slideshare.net/dhrim/track2-6)
+- 2012 H3 발표, '행복한 개발을 위한 테스트 케이스', [발표자료](https://www.slideshare.net/dhrim/ss-14990143)
+- 2017 OkKYCon 발표, 'AI 그까이거', [발표자료](https://www.slideshare.net/dhrim/ai-70388526)
 - 2018 현대제철, 한국전력, 환경기술원에서 딥러닝 교육
-- 2018 Google Next 딥러닝 관련 발표
-- 2019 Keras User Group 세미나. 딥러닝을 사용한 이상탐지 발표
-- 2018 엑셈, 딥러닝 5시간 세미나 5회
+- 2018 Google Next 딥러닝 관련 발표, [발표자료](https://www.slideshare.net/dhrim/deep-learning-applicationtomanufacturing-119362951)
+- 2019 Keras User Group 세미나. 딥러닝을 사용한 이상탐지 발표, [발표자료](https://www.slideshare.net/dhrim/anomaly-detection-practiveusingdeeplearning)
+- 2018 엑셈, 딥러닝 5시간 세미나 5회, [발표자료](https://www.slideshare.net/dhrim/ss-85167318)
 - 2018.11 산자부, 딥러닝 온라인 교육 13강 개발
 - 2019 각 대학교, 딥러닝 2시간씩 특강. 홍익대, 영상대, 충북대, 충남대, 광운대, 연세대, 안동대, 경민대, 한림대, [교육자료](https://github.com/dhrim/opensw_camp_2020)
 - 2019.1 SK T-아카데미, 딥러닝 5시간 세미나
@@ -43,7 +44,7 @@
 - 2019.5 중앙정보처리학원, 딥러닝 80시간 교육, 
 - 2019.7 부산카톨릭대학교, 딥러닝 80시간 교육, [교육자료](https://github.com/dhrim/cup_deeplearning_seminar)
 - 2019.9 부산모바일앱샌터, 재직자 대상 딥러닝 24시간 교육, [교육자료](https://github.com/dhrim/bmac_seminar)
-- 2019.10 한국심리상담협회, 딥러닝 특강 3시간
+- 2019.10 한국심리상담협회, 딥러닝 특강 3시간, [발표자료](https://www.slideshare.net/dhrim/ss-203394538)
 - 2019.11 한림대 의대, 의대 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
 - 2019.12 강동성심병원, 병원 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
 - 2020.1 강남성심병원, 병원 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
