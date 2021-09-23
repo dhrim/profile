@@ -39,7 +39,7 @@
 - 2018 엑셈, 딥러닝 5시간 세미나 5회, [발표자료](https://www.slideshare.net/dhrim/ss-85167318)
 - 2018.11 산자부, 딥러닝 온라인 교육 13강 개발
 - 2019 각 대학교, 딥러닝 2시간씩 특강. 홍익대, 영상대, 충북대, 충남대, 광운대, 연세대, 안동대, 경민대, 한림대, [교육자료](https://github.com/dhrim/opensw_camp_2020)
-- 2019.1 SK T-아카데미, 딥러닝 5시간 세미나
+- 2019.1 SK T-아카데미, 딥러닝 5시간 세미나, [교육홈](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=151)
 - 2019.2 한국표준협회, 전문위원 대상 딥러닝 5시간 교육
 - 2019.5 중앙정보처리학원, 딥러닝 80시간 교육, 
 - 2019.7 부산카톨릭대학교, 딥러닝 80시간 교육, [교육자료](https://github.com/dhrim/cup_deeplearning_seminar)
