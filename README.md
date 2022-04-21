@@ -43,7 +43,7 @@
 - 2019.2 한국표준협회, 전문위원 대상 딥러닝 5시간 교육
 - 2019.5 중앙정보처리학원, 딥러닝 80시간 교육, 
 - 2019.7 부산카톨릭대학교, 딥러닝 80시간 교육, [교육자료](https://github.com/dhrim/cup_deeplearning_seminar)
-- 2019.9 부산모바일앱샌터, 재직자 대상 딥러닝 24시간 교육, [교육자료](https://github.com/dhrim/bmac_seminar)
+- 2019.9 부산모바일앱센터, 재직자 대상 딥러닝 24시간 교육, [교육자료](https://github.com/dhrim/bmac_seminar)
 - 2019.10 한국심리상담협회, 딥러닝 특강 3시간, [발표자료](https://www.slideshare.net/dhrim/ss-203394538)
 - 2019.11 한림대 의대, 의대 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
 - 2019.12 강동성심병원, 병원 교수 대상 딥러닝 워크샾 20시간, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2020)
