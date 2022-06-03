@@ -72,7 +72,7 @@
 - 2021.8 ~ 2021.12 직장인 대상 40시간 Jetson 교육 4번[교육자료](https://github.com/dhrim/jetson_image)
 - 2021.11 ~ 2022.1 메디치, 취준생 대상 160시간 딥러닝 교육, [교육자료](https://github.com/dhrim/MDC_2021)
 - 2022.1 중앙대 대상 32시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022)
-- 2022.2 AIFactory 주광, 온라인 세미나. [자료](https://github.com/dhrim/ai_spark_2022)
+- 2022.2 AIFactory 주관, 온라인 세미나. [자료](https://github.com/dhrim/ai_spark_2022)
 
 
 <br>
