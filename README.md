@@ -28,10 +28,18 @@
 
 ## 발표/세미나/교육 이력
 
+- 1999.3 충북대학교 대학원 '인터넷 실무' 강의 
+- 1999.9 충북대학교 대학원 '인터넷 e-business 프로젝트' 강의
 - 2003 Linux Expo 발표. 'What is Perl? What with Perl?'
+- 2007 CMMI 심사에 심사관으로 참가
+- 2007 OKJSP 발표 “팀장님 그런데 CMMI가 뭐에여?, [발표자료](https://www.slideshare.net/dhrim/cmmi-2804834)
+- 2009.3 마이크로소프트 세미나 “예외 처리 가이드”, [발표자료](https://www.slideshare.net/dhrim/ss-2804901)
+- 2009.6,7 마이크로소프트 잡지 기고 “예외 처리 가이드”
 - 2009 IBM dw 세미나. '버그픽스와 테스트 케이스'
 - 2011 H3 발표. '흰머리 성성하게 개발하기 위해', [발표자료](https://www.slideshare.net/dhrim/track2-6)
 - 2012 H3 발표, '행복한 개발을 위한 테스트 케이스', [발표자료](https://www.slideshare.net/dhrim/ss-14990143)
+- 2013.06 OKJSP 발표 '오버라이딩을 사용한 테스트 시의 설정 처리'
+- 2015.07 QA를 대상으로 한 테스트 자동화 교육. 6회 진행
 - 2017 OkKYCon 발표, 'AI 그까이거', [발표자료](https://www.slideshare.net/dhrim/ai-70388526)
 - 2018 현대제철, 한국전력, 환경기술원에서 딥러닝 교육
 - 2018 Google Next 딥러닝 관련 발표, [발표자료](https://www.slideshare.net/dhrim/deep-learning-applicationtomanufacturing-119362951)
