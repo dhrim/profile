@@ -82,6 +82,7 @@
 - 2021.12 한국과학기술대학 STEP, Keras How-To 온라인 교육 개발, [교육링크](https://e-koreatech.step.or.kr/page/lms?m1=course&m2=course_detail&course_id=227707)
 - 2022.1 중앙대 대상 32시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022)
 - 2022.2 AIFactory 주관, 온라인 세미나. [자료](https://github.com/dhrim/ai_spark_2022)
+- 2022.6 서울시, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/MDC_2022)
 
 
 <br>
