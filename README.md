@@ -16,7 +16,8 @@
 
 ## 경력
 
-- 2019 ~ 현재 : 디필드 대표, 딥러닝 구축 컨설팅
+- 2022 ~ 현재  : 로완, CTO/CAIO
+- 2019 ~ 2022 : 디필드 대표, 딥러닝 구축 컨설팅
 - 2017 ~ 2019 : 엑셈, AI팀 이사, 딥러닝 개발
 - 2013 ~ 2015 : CCT, 아키텍트
 - 2011 ~ 2013 : KTH, 개발팀 리드, 벡엔드 솔루션 개발
@@ -85,6 +86,7 @@
 - 2022.6 서울시, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/DMC_2022)
 - 2022.7 강남성심변원, 의사대상 16시간 딥러닝 워크샾, [교육자료](https://github.com/dhrim/https://github.com/dhrim/hallym_medi_workshop_2022)
 - 2022.7 중앙대, 학부생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022_summer)
+- 2022.8 WISET, 취준생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/2022_WISET)
 
 
 <br>
