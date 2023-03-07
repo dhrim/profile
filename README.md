@@ -81,14 +81,15 @@
 - 2021.8 ~ 2021.12 직장인 대상 40시간 Jetson 교육 4차례, [교육자료](https://github.com/dhrim/jetson_image)
 - 2021.11 ~ 2022.1 메디치, 취준생 대상 160시간 딥러닝 교육, [교육자료](https://github.com/dhrim/MDC_2021)
 - 2021.12 한국과학기술대학 STEP, Keras How-To 온라인 교육 개발, [교육링크](https://e-koreatech.step.or.kr/page/lms?m1=course&m2=course_detail&course_id=227707)
-- 2022.1 중앙대, 학부생대상 32시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022)
+- 2022.1 중앙대, 학부생 대상 32시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022)
 - 2022.2 AIFactory 주관, 온라인 세미나. [자료](https://github.com/dhrim/ai_spark_2022)
 - 2022.6 서울시, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/DMC_2022)
 - 2022.7 멘토링한 중앙대 교육생팀 교내경진대회 2위 수상
-- 2022.7 강남성심변원, 의사대상 16시간 딥러닝 워크샾, [교육자료](https://github.com/dhrim/https://github.com/dhrim/hallym_medi_workshop_2022)
+- 2022.7 강남성심변원, 의사 대상 16시간 딥러닝 워크샾, [교육자료](https://github.com/dhrim/https://github.com/dhrim/hallym_medi_workshop_2022)
 - 2022.7 중앙대, 학부생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022_summer)
 - 2022.8 WISET, 취준생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/2022_WISET)
 - 2022.11 멘토링한 WISET 교육생팀 개발자대회 2022 은상 수상
+- 2023.1 한림대 간호대학 교수 대상 18시간 딥러닝 교육, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2023)
 
 
 <br>
