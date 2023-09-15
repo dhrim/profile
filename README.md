@@ -92,13 +92,14 @@
 - 2023.1 한림대 간호대학 교수 대상 18시간 딥러닝 교육, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2023)
 - 2023.5 대한신경과학회 심포지엄 발표, https://github.com/dhrim/2023_neuro_conference
 - 2023.7 2023 ChatGPT 컨퍼런스 발표, https://github.com/dhrim/2023_chatgpt_conference
-
+- 2023.9 한림대 의대 교수 대상 ChatGPT 실습 교육, https://github.com/dhrim/2023_hallym_chatgpt_workshop
+- 2023.9 위데이터랩 주관 OpenAI CookBook 교육, https://github.com/dhrim/2023_openai_cookbook
 
 <br>
 
 ## 교육 자료
 
-딥러닝 실무에 필요한 전체 스펙에 대한 교육 자료를 전부 직접 개발함.
+딥러닝 실무에 필요한 전체 스텍에 대한 교육 자료를 전부 직접 개발함.
 - 환경
 - linux
 - libaray : numpy, pandas, seaborn, matplot
