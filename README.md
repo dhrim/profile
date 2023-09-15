@@ -90,10 +90,10 @@
 - 2022.8 WISET, 취준생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/2022_WISET)
 - 2022.11 멘토링한 WISET 교육생팀 개발자대회 2022 은상 수상
 - 2023.1 한림대 간호대학 교수 대상 18시간 딥러닝 교육, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2023)
-- 2023.5 대한신경과학회 심포지엄 발표, https://github.com/dhrim/2023_neuro_conference
-- 2023.7 2023 ChatGPT 컨퍼런스 발표, https://github.com/dhrim/2023_chatgpt_conference
-- 2023.9 한림대 의대 교수 대상 ChatGPT 실습 교육, https://github.com/dhrim/2023_hallym_chatgpt_workshop
-- 2023.9 위데이터랩 주관 OpenAI CookBook 교육, https://github.com/dhrim/2023_openai_cookbook
+- 2023.5 대한신경과학회 심포지엄 발표, [자료](https://github.com/dhrim/2023_neuro_conference)
+- 2023.7 2023 ChatGPT 컨퍼런스 발표, [자료](https://github.com/dhrim/2023_chatgpt_conference)
+- 2023.9 한림대 의대 교수 대상 ChatGPT 실습 교육, [자료](https://github.com/dhrim/2023_hallym_chatgpt_workshop)
+- 2023.9 위데이터랩 주관 OpenAI CookBook 교육, [자료](https://github.com/dhrim/2023_openai_cookbook)
 
 <br>
 
