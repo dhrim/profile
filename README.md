@@ -92,8 +92,10 @@
 - 2023.1 한림대 간호대학 교수 대상 18시간 딥러닝 교육, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2023)
 - 2023.5 대한신경과학회 심포지엄 발표, [자료](https://github.com/dhrim/2023_neuro_conference)
 - 2023.7 2023 ChatGPT 컨퍼런스 발표, [자료](https://github.com/dhrim/2023_chatgpt_conference)
-- 2023.9 한림대 의대 교수 대상 ChatGPT 실습 교육, [자료](https://github.com/dhrim/2023_hallym_chatgpt_workshop)
+- 2023.9 한림대 의대 교수 대상 ChatGPT 1박 2일 실습 교육, [자료](https://github.com/dhrim/2023_hallym_chatgpt_workshop)
 - 2023.9 위데이터랩 주관 OpenAI CookBook 교육, [자료](https://github.com/dhrim/2023_openai_cookbook)
+- 2023.11 강동성심병원 교수 대상 ChatGPT 1박 2일 실습 교육, [자료](https://github.com/dhrim/2023_hallym_chatgpt_workshop)
+- 2023.12 매일경제교육센서 생성AI 특강 [자료](20231207_매경/매경_교육_OpenAI.pptx)
 
 <br>
 
