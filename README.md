@@ -96,6 +96,7 @@
 - 2023.9 위데이터랩 주관 OpenAI CookBook 교육, [자료](https://github.com/dhrim/2023_openai_cookbook)
 - 2023.11 강동성심병원 교수 대상 ChatGPT 1박 2일 실습 교육, [자료](https://github.com/dhrim/2023_hallym_chatgpt_workshop)
 - 2023.12 매일경제교육센서 생성AI 특강 [자료](20231207_매경/매경_교육_OpenAI.pptx)
+- 2023.12 강동성심병원 실무자 특강. 의료실무자를 위한 ChatGPT 이해 [자료](20231221_강동성심병원/의료실무자를_위한_ChatGPT의_이해.pptx)
 
 <br>
 
