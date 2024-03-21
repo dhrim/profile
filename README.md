@@ -85,7 +85,7 @@
 - 2022.2 AIFactory 주관, 온라인 세미나. [자료](https://github.com/dhrim/ai_spark_2022)
 - 2022.6 서울시, 취준생 대상 80시간 딥러닝 교육, [교육자료](https://github.com/dhrim/DMC_2022)
 - 2022.7 멘토링한 중앙대 교육생팀 교내경진대회 2위 수상
-- 2022.7 강남성심병원, 의사 대상 16시간 딥러닝 워크샾, [교육자료](https://github.com/dhrim/https://github.com/dhrim/hallym_medi_workshop_2022)
+- 2022.7 강남성심병원, 의사 대상 16시간 딥러닝 워크샾, [교육자료](https://github.com/dhrim/hallym_medi_workshop_2022)
 - 2022.7 중앙대, 학부생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/cau_2022_summer)
 - 2022.8 WISET, 취준생 대상 40시간 딥러닝 교육, [교육자료](https://github.com/dhrim/2022_WISET)
 - 2022.11 멘토링한 WISET 교육생팀 개발자대회 2022 은상 수상
