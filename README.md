@@ -103,6 +103,7 @@
 - 2024.7 강남성심병원 교수 대사 AI + 생성형AI 1박 2일 실습 워크샾 [자료](https://github.com/dhrim/2024_kangnam_hallym_workshop)
 - 2024.7 한국인공지능데이터과학협회 주관 OpenAI API 활용 사례 세미나 [자료](https://github.com/dhrim/2024_KOIIA_OpenAI_API)
 - 2024.8 한국인공지능데이터과학협회 주관 OpenAI API, 챗GPT 활용 세미나 [자료](https://github.com/dhrim/2024_openai_api_seminar)
+- 2024.10 WISET 특강, 교육 수료자 대상 [자료](https://github.com/dhrim/2024_WISET_seminar)
   
 <br>
 
