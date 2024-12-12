@@ -104,6 +104,7 @@
 - 2024.7 한국인공지능데이터과학협회 주관 OpenAI API 활용 사례 세미나 [자료](https://github.com/dhrim/2024_KOIIA_OpenAI_API)
 - 2024.8 한국인공지능데이터과학협회 주관 OpenAI API, 챗GPT 활용 세미나 [자료](https://github.com/dhrim/2024_openai_api_seminar)
 - 2024.10 WISET 특강, 교육 수료자 대상 [자료](https://github.com/dhrim/2024_WISET_seminar)
+- 2024.12 어빌리티시스템즈 AI 컨퍼런스 4시간 발표. SI업체를 위한 LLM 도입 전략과 준비 [자료](https://github.com/dhrim/2024_abilitysystems_conference)
   
 <br>
 
