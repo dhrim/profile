@@ -142,4 +142,4 @@ public하게 접근 가능함 : [교육자료](https://github.com/dhrim/MDC_2021
 
 ## 연구 결과
 
-[ORCID](https://orcid.org/my-orcid?orcid=0000-0003-2022-6333)
+[ORCID https://orcid.org/my-orcid?orcid=0000-0003-2022-6333](https://orcid.org/my-orcid?orcid=0000-0003-2022-6333)
