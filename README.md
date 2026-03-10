@@ -148,6 +148,10 @@ public하게 접근 가능함 : [교육자료](https://github.com/dhrim/MDC_2021
 
 본 연구결과를 가지고 2025년 8월에 박사학위를 취득.
 
+학위논문 제목
+- 영문 : Cyclic Dual Latent Discovery: A Deep Learning Framework for Discovering Latent Traits from Interaction Between Entities
+- 국문 : 순환 이중 잠재 탐색: 엔티티 간 상호작용으로부터 잠재 특성 발견을 위한 딥러닝 프레임워크
+
 [박사학위 원고 다운로드](https://dcollection.yonsei.ac.kr/common/orgView/000000560978)
 
 <br>
