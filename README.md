@@ -102,11 +102,12 @@
 - 2023.12 강동성심병원 실무자 특강. 의료실무자를 위한 ChatGPT 이해 [자료](20231221_강동성심병원/의료실무자를_위한_ChatGPT의_이해.pptx)
 - 2024.4 Agile AI Forum 발표. 디지털치료제와 AI [자료](20240322_Agile_AI_Forum/디지털치료제와_AI.pptx)
 - 2024.6 이화여자대학교 의과대학 학생 대상 ChatGPT 워크샾 [자료](https://github.com/dhrim/2024_eumc_chatgpt_workshop)
-- 2024.7 강남성심병원 교수 대사 AI + 생성형AI 1박 2일 실습 워크샾 [자료](https://github.com/dhrim/2024_kangnam_hallym_workshop)
+- 2024.7 강남성심병원 교수 대상 AI + 생성형AI 1박 2일 실습 워크샾 [자료](https://github.com/dhrim/2024_kangnam_hallym_workshop)
 - 2024.7 한국인공지능데이터과학협회 주관 OpenAI API 활용 사례 세미나 [자료](https://github.com/dhrim/2024_KOIIA_OpenAI_API)
 - 2024.8 한국인공지능데이터과학협회 주관 OpenAI API, 챗GPT 활용 세미나 [자료](https://github.com/dhrim/2024_openai_api_seminar)
 - 2024.10 WISET 특강, 교육 수료자 대상 [자료](https://github.com/dhrim/2024_WISET_seminar)
 - 2024.12 어빌리티시스템즈 AI 컨퍼런스 4시간 발표. SI업체를 위한 LLM 도입 전략과 준비 [자료](https://github.com/dhrim/2024_abilitysystems_conference)
+- 2026.5 군국양주병원 주요 직위자 대상 AI 특강
   
 <br>
 
