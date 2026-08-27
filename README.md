@@ -160,3 +160,12 @@ public하게 접근 가능함 : [교육자료](https://github.com/dhrim/MDC_2021
 ## 연구 결과
 
 [https://orcid.org/0000-0003-2022-6333](https://orcid.org/0000-0003-2022-6333)
+
+
+<br>
+
+# 의료 AI 프로필 평가
+
+[AI로 작성한 프로필 병가](./medical_ai_profile_evaluation.md)
+
+
